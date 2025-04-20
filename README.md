@@ -29,7 +29,7 @@ python --version
   ```
 2.- Create a virtual environment
  ```sh
-    python3 python -m venv venv
+    python python -m venv venv
    ```
  ```sh
     source venv\Scripts\activate 
